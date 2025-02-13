@@ -1,16 +1,14 @@
-## Hi there 👋
+## Salut / Hi 👋
 
-<!--
-**AIa2d1/AIa2d1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, World!
 
-Here are some ideas to get you started:
+## Me contacter / Contact Me 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div display="flex">
+  <a href="https://www.linkedin.com/in/alae-eddine-yaagoubi-285927261" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/aia2d1/?next=%2F" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram"/>
+  </a>
+</div>
